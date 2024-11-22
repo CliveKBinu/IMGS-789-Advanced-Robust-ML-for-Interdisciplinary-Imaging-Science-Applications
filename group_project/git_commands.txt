@@ -1,0 +1,11 @@
+## To add a file:
+git add <filename>
+git commit -a
+## This command lets you write a comments about what changes you are making 
+##	to leave and save changes, press: escape -> shift -> colon -> Type: “wq”
+##	to leave and NOT save changes, press: escape -> shift -> colon -> Type: “q!”
+git push
+## This command pushes the file.
+## ----------------------
+## To pull files:
+git pull

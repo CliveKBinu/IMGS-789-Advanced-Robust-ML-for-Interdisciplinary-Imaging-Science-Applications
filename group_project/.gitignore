@@ -1,3 +1,6 @@
 pretrained_weights/
 saved_models/
 *.pkl
+./grism_specPT.pkl
+./pretrained_weights
+./saved_models
